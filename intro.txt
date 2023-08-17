@@ -1,1 +1,1 @@
-Ameya Angne
+print("Ameya Angne")
